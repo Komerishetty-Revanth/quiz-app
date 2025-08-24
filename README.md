@@ -19,7 +19,7 @@ A simple web-based quiz platform built with Flask. Users can register, log in, t
 - Flask-WTF for forms
 - SQLAlchemy for ORM and database management
 - Jinja2 templating engine
-- HTML, CSS for frontend layout
+- HTML for frontend layout
 
 ## Installation
 
